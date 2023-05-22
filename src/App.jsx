@@ -62,7 +62,7 @@ function App() {
                          <FaEdit onClick={() => editItem(item.id, updatedText)}/>
                        </div>
                      ) : null} */}
-                     <FaEdit onClick={() => editItem(item.id, updatedText)}/>
+                     {/* <FaEdit onClick={() => editItem(item.id, updatedText)}/> */}
                   </div>
               </div>
               )

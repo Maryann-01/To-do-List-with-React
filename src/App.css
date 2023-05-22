@@ -42,7 +42,7 @@ body{
   text-transform: uppercase;
 }
 .list-check{
-  border:2px solid pink;
+  /* border:2px solid pink; */
   display:flex;
 
 
@@ -51,7 +51,7 @@ body{
   background-color:rgb(149, 233, 229) ;
 }
 .li{
-  border:2px solid red;
+  /* border:2px solid red; */
   align-self: flex-start;
 }
 .subsection{
